@@ -1,16 +1,20 @@
-## Hi there 👋
+ Klinger Cristhian Aguirre
+Desarrollador de Software Junior certificado por MINTIC (Universidad de Pereira), con formación universitaria en Ingeniería de Sistemas hasta tercer semestre.
 
-<!--
-**klingercristhian-dev/klingercristhian-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por el desarrollo backend y la creación de soluciones prácticas mediante código limpio y estructurado.
 
-Here are some ideas to get you started:
+ Tecnologías
+Python
+SQL
+HTML
+Java (básico)
+Optimización y mantenimiento de sistemas
+Soporte técnico y troubleshooting
+Enfoque Profesional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me especializo en el desarrollo de aplicaciones en Python, estructuración de bases de datos y creación de proyectos web.
+Busco una oportunidad como desarrollador junior donde pueda aportar soluciones reales y seguir creciendo profesionalmente.
+
+📫 3103495411
+
+✉️ cristhian.camilo041@gmail.com
